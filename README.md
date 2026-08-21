@@ -27,8 +27,8 @@ Launch Activity: Call startActivity() to prompt the system to open the URL in a 
 
 ```
 Program to print the text “Implicitintent”.
-Developed by: SANJAY K
-Registeration Number : 212223220094
+Developed by: Naveen Kumar V
+Registeration Number : 212223220068
 MainActivity.java
 ```
 ```
@@ -120,21 +120,12 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-### activity_main.xml
-<img width="1920" height="1080" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/a8cd6d5f-1321-4449-8abd-e00796c483b7" />
-
-### MainActivity.java
-<img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/c662813a-8649-40d3-9c4a-aa91f23853d7" />
-
 ### Implicit Intent
-<img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/d3e6fe80-75c2-4188-afb0-66c6e9467f15" />
+<img width="1903" height="946" alt="Screenshot 2026-08-21 082905" src="https://github.com/user-attachments/assets/f79f3375-b968-488f-a3e3-664fa7d96ac7" />
+<img width="1915" height="950" alt="Screenshot 2026-08-21 082654" src="https://github.com/user-attachments/assets/b687313f-7bea-4e0f-9a33-57cf24950eee" />
 
 ### Navigated to URL
-<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/e892b518-ed9b-43b1-bd3f-1060fd4245d5" />
-
-
-
-
+<img width="1919" height="945" alt="Screenshot 2026-08-21 090547" src="https://github.com/user-attachments/assets/59c187e6-1701-41e5-bbfe-dbb2c6fb63cb" />
 
 
 ## RESULT
